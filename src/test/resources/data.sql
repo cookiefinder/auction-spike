@@ -1,0 +1,1 @@
+insert into auction(id, CN, `name`, bailment_status) values (1, 'M1290318', 'pearl', 'NOT_RECEIVED');
